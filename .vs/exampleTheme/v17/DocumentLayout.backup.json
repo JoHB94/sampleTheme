@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\exampleTheme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F964B5-5ED1-4938-9FD5-CE9534CA3DE1}|exampleTheme.csproj|c:\\users\\user\\source\\repos\\exampletheme\\vm\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F964B5-5ED1-4938-9FD5-CE9534CA3DE1}|exampleTheme.csproj|solutionrelative:vm\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F964B5-5ED1-4938-9FD5-CE9534CA3DE1}|exampleTheme.csproj|c:\\users\\user\\source\\repos\\exampletheme\\comp\\sidetab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0F964B5-5ED1-4938-9FD5-CE9534CA3DE1}|exampleTheme.csproj|solutionrelative:comp\\sidetab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F964B5-5ED1-4938-9FD5-CE9534CA3DE1}|exampleTheme.csproj|c:\\users\\user\\source\\repos\\exampletheme\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0F964B5-5ED1-4938-9FD5-CE9534CA3DE1}|exampleTheme.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F964B5-5ED1-4938-9FD5-CE9534CA3DE1}|exampleTheme.csproj|c:\\users\\user\\source\\repos\\exampletheme\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F964B5-5ED1-4938-9FD5-CE9534CA3DE1}|exampleTheme.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F964B5-5ED1-4938-9FD5-CE9534CA3DE1}|exampleTheme.csproj|c:\\users\\user\\source\\repos\\exampletheme\\comp\\selectedtab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0F964B5-5ED1-4938-9FD5-CE9534CA3DE1}|exampleTheme.csproj|solutionrelative:comp\\selectedtab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F964B5-5ED1-4938-9FD5-CE9534CA3DE1}|exampleTheme.csproj|c:\\users\\user\\source\\repos\\exampletheme\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0F964B5-5ED1-4938-9FD5-CE9534CA3DE1}|exampleTheme.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F964B5-5ED1-4938-9FD5-CE9534CA3DE1}|exampleTheme.csproj|c:\\users\\user\\source\\repos\\exampletheme\\dto\\customtab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F964B5-5ED1-4938-9FD5-CE9534CA3DE1}|exampleTheme.csproj|solutionrelative:dto\\customtab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F964B5-5ED1-4938-9FD5-CE9534CA3DE1}|exampleTheme.csproj|c:\\users\\user\\source\\repos\\exampletheme\\view\\pagetabform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0F964B5-5ED1-4938-9FD5-CE9534CA3DE1}|exampleTheme.csproj|solutionrelative:view\\pagetabform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\6a691fb992ba2148b31ccdf07fa1fde0efd8b0e6ceb0097e34af74265891e487\\Page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\6a691fb992ba2148b31ccdf07fa1fde0efd8b0e6ceb0097e34af74265891e487\\Page.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6a691fb992ba2148b31ccdf07fa1fde0efd8b0e6ceb0097e34af74265891e487\\Page.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\6a691fb992ba2148b31ccdf07fa1fde0efd8b0e6ceb0097e34af74265891e487\\Page.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6a691fb992ba2148b31ccdf07fa1fde0efd8b0e6ceb0097e34af74265891e487\\Page.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AgIAAIkCAAAAAAAAAADgv5kCAABHAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:14:05.08Z",
+              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PageTabForm.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\exampleTheme\\View\\PageTabForm.xaml",
+              "RelativeDocumentMoniker": "View\\PageTabForm.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\exampleTheme\\View\\PageTabForm.xaml",
+              "RelativeToolTip": "View\\PageTabForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-25T09:33:41.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SideTab.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\exampleTheme\\Comp\\SideTab.xaml",
+              "RelativeDocumentMoniker": "Comp\\SideTab.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\exampleTheme\\Comp\\SideTab.xaml*",
+              "RelativeToolTip": "Comp\\SideTab.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-25T06:15:37.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\exampleTheme\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\exampleTheme\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-25T03:30:00.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\exampleTheme\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\exampleTheme\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T03:29:59.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\exampleTheme\\VM\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "VM\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\exampleTheme\\VM\\MainViewModel.cs",
+              "RelativeToolTip": "VM\\MainViewModel.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwD8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:46:31.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SelectedTab.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\exampleTheme\\Comp\\SelectedTab.xaml",
+              "RelativeDocumentMoniker": "Comp\\SelectedTab.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\exampleTheme\\Comp\\SelectedTab.xaml",
+              "RelativeToolTip": "Comp\\SelectedTab.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-25T07:40:34.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\exampleTheme\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\exampleTheme\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-25T03:31:33.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomTab.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\exampleTheme\\DTO\\CustomTab.cs",
+              "RelativeDocumentMoniker": "DTO\\CustomTab.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\exampleTheme\\DTO\\CustomTab.cs",
+              "RelativeToolTip": "DTO\\CustomTab.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:28:05.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
